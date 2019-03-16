@@ -1,0 +1,35 @@
+<resources>
+<string name="app_name">Włoskie Co Nieco</string>
+
+<string name="hello_world">Witaj, świecie!</string>
+<string name="action_settings">Ustawienia</string>
+<string name="action_create_order">Złóż zamówienie</string>
+<string name="title_activity_order">Składanie zamówień</string>
+<string name="action_share">Udostępnij</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="title_top">Fragment TopFragment</string>
+<string-array name="pizzas">
+  <item>Diavolo</item>
+  <item>Funghi</item>
+</string-array>
+<string-array name="pasta">
+  <item>Spaghetti bolognese</item>
+  <item>Lasagne</item>
+</string-array>
+<string-array name="stores">
+  <item>Wrocław</item>
+  <item>Kraków</item>
+</string-array>
+<string-array name="titles">
+  <item>Ekran główny</item>
+  <item>Pizze</item>
+  <item>Makarony</item>
+  <item>Restauracje</item>
+</string-array>
+<string name="open_drawer">Otwórz szufladę</string>
+<string name="close_drawer">Zamknij szufladę</string>
+<string name="title_activity_pizza_detail">Informacje szczegółowe</string>
+<string name="welcome_text">Oferujemy bogaty wybór świeżo wypiekanych pizz oraz dań z makaronu. Przekonaj się, że warto spróbować naszych potraw!</string>
+</resources>
